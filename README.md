@@ -59,5 +59,8 @@ be added into stock more than once.
 User Interface You should provide a graphical user interface (GUI) or command-line interface (CLI).
 A GUI scores more points than a CLI. A good interface is intuitive, quick and easy to use.
 
+
+The following Class Diagram represents the diagram for the classes.
+
 ![Capture](https://user-images.githubusercontent.com/111706273/235656720-3b68f7b0-e4df-434c-a83b-ae632139aa0e.JPG)
 
