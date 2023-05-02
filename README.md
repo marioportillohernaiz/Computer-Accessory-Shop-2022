@@ -58,3 +58,6 @@ notified if they want to buy an item that is out of stock. (ii) Products with a 
 be added into stock more than once.
 User Interface You should provide a graphical user interface (GUI) or command-line interface (CLI).
 A GUI scores more points than a CLI. A good interface is intuitive, quick and easy to use.
+
+![Capture](https://user-images.githubusercontent.com/111706273/235656720-3b68f7b0-e4df-434c-a83b-ae632139aa0e.JPG)
+
